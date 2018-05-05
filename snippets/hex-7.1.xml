@@ -41,7 +41,6 @@
   <project path="prebuilts/build-tools" name="HexagonRom/prebuilts_build-tools" remote="hexagon" />
   <project path="system/core" name="HexagonRom/android_system_core" groups="pdk" remote="hexagon" />
   <project path="system/sepolicy" name="HexagonRom/system_sepolicy" groups="pdk" remote="hexagon" />
-  <project path="vendor/hexagon" name="HexagonRom/android_vendor_hexagon" remote="hexagon" />
   <project path="vendor/codeaurora/telephony" name="HexagonRom/vendor_codeaurora_telephony" remote="hexagon"/>
 <!-- END HEXAGON -->
 
