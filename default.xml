@@ -29,6 +29,7 @@
  <project path="vendor/samsung/kyleproxx" name="ishantvivek/android_vendor_samsung_kyleproxx" remote="github" revision="7.0" />
  <project path="external/chromium-webview" name="ishantvivek/android_external_chromium-webview" clone-depth="1" remote="github" revision="7.0" />
  <project path="jack_scripts" name="namdeptrai2003/jack_scripts" remote="github" revision="master" />
+  <project path="vendor/hexagon" name="HexagonRom/android_vendor_hexagon" remote="github" revision="hex-7.1" />
 <!-- BEGIN CYANOGENMOD -->
   <project path="build" name="HexagonRom/android_build" groups="pdk,tradefed" remote="hexagon" >
     <copyfile src="core/root.mk" dest="Makefile" />
